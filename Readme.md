@@ -4,7 +4,7 @@ A task management application deployed on AWS infrastructure, featuring a React 
 
 ## Live Demo
 
-- Frontend: [http://taskapp-frontend-env.eba-sn23pmey.ap-southeast-1.elasticbeanstalk.com/](http://taskapp-frontend-env.eba-sn23pmey.ap-southeast-1.elasticbeanstalk.com/)
+- Frontend: [http://taskapp-frontend-prod-env.eba-vupzncxu.ap-southeast-1.elasticbeanstalk.com/](http://taskapp-frontend-prod-env.eba-vupzncxu.ap-southeast-1.elasticbeanstalk.com/)
 - Backend API: [http://122.248.202.13:5000/api](http://122.248.202.13:5000/api)
 
 ## Architecture
