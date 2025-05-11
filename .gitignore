@@ -1,0 +1,44 @@
+# Node dependencies
+/backend/node_modules
+/frontend/taskapp-frontend/node_modules
+
+# Build outputs
+/frontend/taskapp-frontend/build
+
+# Elastic Beanstalk Files
+/frontend/taskapp-frontend/.elasticbeanstalk
+/frontend/taskapp-frontend/.platform
+/frontend/taskapp-frontend/.ebextensions
+
+# Environment files
+/backend/.env
+/frontend/taskapp-frontend/.env
+/frontend/taskapp-frontend/.env.local
+/frontend/taskapp-frontend/.env.development.local
+/frontend/taskapp-frontend/.env.test.local
+/frontend/taskapp-frontend/.env.production.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Deployment files
+/frontend/taskapp-frontend/Procfile
+/frontend/taskapp-frontend/taskapp-frontend.zip
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+EOF
