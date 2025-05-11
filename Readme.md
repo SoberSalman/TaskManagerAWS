@@ -34,7 +34,7 @@ This application follows a modern cloud-native architecture with the following c
 
 ## Deployment Guide
 
-See the [documentation](./documentation.pdf) for detailed deployment instructions.
+See the [documentation](I210469_i200816_CloudProject.pdf) for detailed deployment instructions.
 
 ## License
 
